@@ -55,6 +55,7 @@ function App() {
     "banten",
     "dki jakarta",
     "di yogyakarta",
+    "Purwokerto",
       "jakarta",
       "bandung",
       "surabaya",
