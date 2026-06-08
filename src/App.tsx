@@ -49,7 +49,12 @@ function App() {
   function isJawa() {
 
     return [
-
+    "jawa barat",
+    "jawa tengah",
+    "jawa timur",
+    "banten",
+    "dki jakarta",
+    "di yogyakarta",
       "jakarta",
       "bandung",
       "surabaya",
